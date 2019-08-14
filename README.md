@@ -21,6 +21,9 @@ This Projects for Flutter widgets  because Everythings is Widgets in Flutter ,an
    - Raised Button Widget
    - List View Widget
    - Long List Widget
+   - DropDown Widget
+   - GridLayout Widget
+   - Json Widget
    
 
 ## My Flutter Projects 
@@ -29,3 +32,8 @@ Also i done some projects with Flutter . here,
 
    - <a href = "https://github.com/yohanym95/Flutter_Login_UI">Flutter Login UI </a>
    - <a href = "https://github.com/yohanym95/Flutter_Login_UI">Flutter Calculator </a>
+   - <a href = "https://github.com/yohanym95/Flutter_ChatApp_UI">Flutter ChatApp UI </a>
+   - <a href = "https://github.com/yohanym95/Flutter_NoteApp_V2">Flutter Note App using firebase</a>
+   - <a href = "https://github.com/yohanym95/Flutter_NoteApp">Flutter Note App using Database(SQLLITE)</a>
+   
+   
