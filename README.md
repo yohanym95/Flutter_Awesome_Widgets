@@ -33,6 +33,6 @@ Also i done some projects with Flutter . here,
    - <a href = "https://github.com/yohanym95/Flutter_ChatApp_UI">Flutter ChatApp UI </a>
    - <a href = "https://github.com/yohanym95/Flutter_NoteApp_V2">Flutter Note App using firebase</a>
    - <a href = "https://github.com/yohanym95/Flutter_NoteApp">Flutter Note App using Database(SQLLITE)</a>
-   - <a href = "https://github.com/yohanym95/Flutter-MovieCharacterUIApp">Flutter ChatApp UI </a>
+   - <a href = "https://github.com/yohanym95/Flutter-MovieCharacterUIApp">Flutter Movie Character UI App</a>
    
    
