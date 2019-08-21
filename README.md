@@ -1,8 +1,6 @@
-# flutter_login
-A new Flutter project.
+# Flutter Awesome Widgets
 
-## Getting Started
-This project is a starting point for a Flutter application.
+ - This repository for flutter widgets and also this widgets are simple widgets and this repository include basic things and Some my projects links of flutter.
 
 ## A few resources to get you started if this is your first Flutter project:
 
@@ -35,5 +33,6 @@ Also i done some projects with Flutter . here,
    - <a href = "https://github.com/yohanym95/Flutter_ChatApp_UI">Flutter ChatApp UI </a>
    - <a href = "https://github.com/yohanym95/Flutter_NoteApp_V2">Flutter Note App using firebase</a>
    - <a href = "https://github.com/yohanym95/Flutter_NoteApp">Flutter Note App using Database(SQLLITE)</a>
+   - <a href = "https://github.com/yohanym95/Flutter-MovieCharacterUIApp">Flutter ChatApp UI </a>
    
    
